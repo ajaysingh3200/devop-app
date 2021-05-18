@@ -1,4 +1,4 @@
-package com.vikas.app;
+package com.ajay.app;
 
 /**
  * Hello world!
@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World from jenkins" );
+        System.out.println( "Hello World from jenkins." );
     }
 }
